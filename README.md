@@ -1,6 +1,6 @@
 # Información
 *Prof.* Marco R. Cordero Hernández  
-**Correo institucional**: <a href="mailto:marco.cordero@universidad-une.com">marco.cordero@universidad-une.com</a>
+**Correo institucional**: <a href="mailto:marco.cordero@universidad-une.com?subject=(Tus apellidos) - Duda de (Nombre de tu clase)">marco.cordero@universidad-une.com</a>
 
 # Cursos actuales
 - Programación para internet (L, Mi, J)
